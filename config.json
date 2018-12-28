@@ -1,0 +1,12 @@
+{
+    "adminChannel" : "music-admin",
+    "standardChannel" : "music",
+    "gongLimit": 3,
+    "voteLimit": 3,
+    "sonos" : "172.20.1.102",
+    "token" : "xoxb-390351167745-449423897175-068soxrzJ4A08YZUQ7ZPKgOd",
+    "market" : "US",
+    "maxVolume" : 100,
+    "blacklist" : "@justin.bieber, @one.direction, @jake",
+    "apiKey": ""
+}
